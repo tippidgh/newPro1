@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">experi4</string>
-    <string name="textView00">
-        Which is the way to the __________
-    </string>
+    <string name="app_name">做题系统</string>
+    <string name="textView00">Which is the way to the __________</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
 </resources>

@@ -9,7 +9,7 @@
     <SurfaceView
         android:id="@+id/surfaceView00"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="369dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -17,6 +17,7 @@
         android:id="@+id/button00"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="56dp"
         android:text="播放"
         app:layout_constraintStart_toStartOf="parent"

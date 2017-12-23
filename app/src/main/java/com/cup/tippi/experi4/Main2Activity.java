@@ -1,6 +1,7 @@
 package com.cup.tippi.experi4;
 
 import android.content.Intent;
+import android.graphics.Camera;
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -52,7 +53,7 @@ public class Main2Activity extends AppCompatActivity {
             }
             if(v==btn04){
                 Intent intent4 = new Intent();
-                intent4.setClass(getApplicationContext(),Main5Activity.class);
+                intent4.setClass(getApplicationContext(),MyCameraActivity.class);
                 startActivity(intent4);
             }
 
